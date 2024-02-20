@@ -54,4 +54,4 @@ The results suggest that the predictor variables may not be sufficient to accura
 - Sikora, Marek, et al. “Application of Rule Induction to Discover Survival Factors of Patients after Bone Marrow Transplantation.”
 
 ---
-*This project was conducted as part of a collaborative effort with group members.*
+
